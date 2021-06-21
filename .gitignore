@@ -1,0 +1,10 @@
+
+tgadmin/.env
+__pycache__
+.idea
+venv
+mydb.db
+tgadmin/mydb.sqlite3
+tgadmin/db.sqlite3
+SbormobilBot
+tgadmin/tgadmin/.env
